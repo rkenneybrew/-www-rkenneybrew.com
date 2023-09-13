@@ -1,2 +1,2 @@
-# {[www](https://www.rkenneybrew.com)} rkenneybrew.com
+# {[www](http://www.rkenneybrew.com)} rkenneybrew.com
 > Sub-Domain
